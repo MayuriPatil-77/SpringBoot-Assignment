@@ -17,10 +17,10 @@ A $120 purchase → (2 × 20) + (1 × 50) = 90 points.
 - Unit and integration tests included
 - JavaDocs added for classes and methods
 
-src/main/java/com/example/rewards/
+src/main/java/com/app/rewards/
 ├── RewardsApplication.java
-├── controller/RewardsController.java
-├── service/RewardsService.java
+├── controller/RewardController.java
+├── service/RewardService.java
 ├── model/Customer.java
 ├── model/Reward.java
 └── exception/InvalidTransactionException.java

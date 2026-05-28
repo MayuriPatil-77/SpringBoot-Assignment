@@ -7,7 +7,7 @@ import java.util.List;
 
 import org.junit.jupiter.api.Test;
 
-import com.app.reward.Model.Reward;
+import com.app.reward.model.Reward;
 
 public class RewardServiceTest {
 

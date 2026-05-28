@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.app.reward.Model.Reward;
+import com.app.reward.model.Reward;
 import com.app.reward.service.RewardService;
 
 @RestController

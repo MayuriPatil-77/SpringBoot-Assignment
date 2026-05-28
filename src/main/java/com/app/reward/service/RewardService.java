@@ -9,9 +9,9 @@ import java.util.Map;
 
 import org.springframework.stereotype.Service;
 
-import com.app.reward.Model.Customer;
-import com.app.reward.Model.Reward;
 import com.app.reward.exception.InvalidTransactionException;
+import com.app.reward.model.Customer;
+import com.app.reward.model.Reward;
 
 /**
  * Provides reward calculation logic for customer transactions.

@@ -1,4 +1,4 @@
-package com.app.reward.Model;
+package com.app.reward.model;
 
 import java.time.LocalDate;
 

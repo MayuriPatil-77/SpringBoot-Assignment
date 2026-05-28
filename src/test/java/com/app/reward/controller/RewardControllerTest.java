@@ -14,7 +14,7 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
 
-import com.app.reward.Model.Reward;
+import com.app.reward.model.Reward;
 import com.app.reward.service.RewardService;
 
 /**
